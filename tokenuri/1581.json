@@ -1,0 +1,32 @@
+{
+    "name":"Kaiju #1581",
+    "description":"Kaiju society embraces Web3, $SOS, and DAO system. The first $SOS NFT. $SOS will find new usages with in the Kaiju ecosystem and DAO. Equal distribution and democracy implemented.",
+    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/images/Kaiju #1581.png",
+    "external_url":"/URL/",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"Green"
+        },
+        {
+            "trait_type":"Skin",
+            "value":"OrangeTeal"
+        },
+        {
+            "trait_type":"Cloth",
+            "value":"Hoodie"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Teeth"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Pirate"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"Artist"
+        }
+    ]
+}
