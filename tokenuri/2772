@@ -1,32 +1,6 @@
 {
-    "name":"Kaiju #2772",
-    "description":"Kaiju society embraces Web3, $SOS, and DAO system. The first $SOS NFT. $SOS will find new usages with in the Kaiju ecosystem and DAO. Equal distribution and democracy implemented.",
-    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/images/2772.png",
-    "external_url":"/URL/",
-    "attributes":[
-        {
-            "trait_type":"Background",
-            "value":"SkyBlue"
-        },
-        {
-            "trait_type":"Skin",
-            "value":"OrangeTeal"
-        },
-        {
-            "trait_type":"Cloth",
-            "value":"Hoodie"
-        },
-        {
-            "trait_type":"Mouth",
-            "value":"ThrowUp"
-        },
-        {
-            "trait_type":"Eyes",
-            "value":"Pirate"
-        },
-        {
-            "trait_type":"Hat",
-            "value":"BaseballCap"
-        }
-    ]
+    "name":"Chubby Kaiju #2772",
+    "description":"ChubbyKaijuDAO aims to build an advanced DAO in OpenDAO. All kaijus are cute and chubby. Indirect Democracy implemented in DAO system, and 100ETH funded Multi-signature DAO Treasury will voice in OpenDAO ecosystem as a Top40 SOS token holder.",
+    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/tokenuri_image.gif",
+    "attributes":[]
 }
