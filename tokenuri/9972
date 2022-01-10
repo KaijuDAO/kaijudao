@@ -1,6 +1,32 @@
 {
     "name":"Chubby Kaiju #9972",
-    "description":"ChubbyKaijuDAO aims to build an advanced DAO in OpenDAO. All kaijus are cute and chubby. Indirect Democracy implemented in DAO system, and 100ETH funded Multi-signature DAO Treasury will voice in OpenDAO ecosystem as a Top40 SOS token holder.",
-    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/tokenuri_image.gif",
-    "attributes":[]
+    "description":"CRRRRRUNCH! You found one of the 7 hidden kaijus. These are super rare, Yosep created them without letting the rest of the team know. Please set the Chubby Doodle as your twitter pfp and be proud of yourself!",
+    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/images/9972.png",
+    "external_url":"/URL/",
+    "attributes":[
+        {
+            "trait_type":"Background",
+            "value":"SOS"
+        },
+        {
+            "trait_type":"Skin",
+            "value":"Music Green"
+        },
+        {
+            "trait_type":"Cloth",
+            "value":"Chubby Doodle"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Chubby Doodle"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Chubby Doodle"
+        },
+        {
+            "trait_type":"Hats",
+            "value":"Chubby Doodle"
+        }
+    ]
 }

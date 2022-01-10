@@ -1,6 +1,1 @@
-{
-    "name":"Chubby Kaiju #121",
-    "description":"ChubbyKaijuDAO aims to build an advanced DAO in OpenDAO. All kaijus are cute and chubby. Indirect Democracy implemented in DAO system, and 100ETH funded Multi-signature DAO Treasury will voice in OpenDAO ecosystem as a Top40 SOS token holder.",
-    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/tokenuri_image.gif",
-    "attributes":[]
-}
+{"name": "Chubby Kaiju #121", "description": "ChubbyKaijuDAO aims to build an advanced DAO in OpenDAO. All kaijus are cute and chubby. Indirect Democracy implemented in DAO system, and 100ETH funded Multi-signature DAO Treasury will voice in OpenDAO ecosystem as a Top40 SOS token holder.", "image": "https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/images/121.png", "external_url": "/URL/", "attributes": [{"trait_type": "Background", "value": "SOS"}, {"trait_type": "Skin", "value": "Money RainBow"}, {"trait_type": "Cloth", "value": "Tentacles"}, {"trait_type": "Mouth", "value": "Fish"}, {"trait_type": "Eyes", "value": "Rainbow Glasses"}, {"trait_type": "Hats", "value": "SOS Siren"}]}
