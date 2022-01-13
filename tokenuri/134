@@ -1,16 +1,32 @@
 {
-    "name":"Chubby Kaiju #6134",
+    "name":"Chubby Kaiju #134",
     "description":"ChubbyKaijuDAO 1/1 Collection. This collection is made for commemorating special peoples who win the raffles by participating early community competitions, indirectly provide the motivation to the projects, and just have the greatest luck. Show your special Kaiju to the community (https://chubbykaijudao.com/) and earn respect.",
-    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/images/6134.png",
+    "image":"https://raw.githubusercontent.com/KaijuDAO/kaijudao/main/images/134.png",
     "external_url":"/URL/",
     "attributes":[
-        {
-            "trait_type":"1/1",
-            "value":"Chubby Mercury"
-        },
-        {
-            "trait_type":"Skin",
-            "value":"Power Yellow"
-        }
+	{
+		"trait_type": "Background", 
+		"value": "Rare"
+	}, 
+	{
+		"trait_type": "Skin", 
+		"value": "Music Green"
+	}, 
+	{
+		"trait_type": "Cloth",
+		"value": "Fancy"
+	}, 
+	{
+		"trait_type": "Mouth", 
+		"value": "Rainbow"
+	}, 
+	{	
+		"trait_type": "Eyes", 
+		"value": "Sunglasses"
+	}, 
+	{
+		"trait_type": "Hats", 
+		"value": "Octopus"
+	}
     ]
 }
