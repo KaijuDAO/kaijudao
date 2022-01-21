@@ -5,28 +5,12 @@
     "external_url":"/URL/",
     "attributes":[
         {
-            "trait_type":"Background",
-            "value":"SOS"
+            "trait_type":"Hidden",
+            "value":"Chubby Baby"
         },
         {
             "trait_type":"Skin",
             "value":"Power Yellow"
-        },
-        {
-            "trait_type":"Cloth",
-            "value":"Chubby Baby"
-        },
-        {
-            "trait_type":"Mouth",
-            "value":"Chubby Baby"
-        },
-        {
-            "trait_type":"Eyes",
-            "value":"Chubby Baby"
-        },
-        {
-            "trait_type":"Hats",
-            "value":"Chubby Baby"
         }
     ]
 }

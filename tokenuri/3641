@@ -5,28 +5,12 @@
     "external_url":"/URL/",
     "attributes":[
         {
-            "trait_type":"Background",
-            "value":"SOS"
+            "trait_type":"Hidden",
+            "value":"Chubby Shock"
         },
         {
             "trait_type":"Skin",
             "value":"Music Green"
-        },
-        {
-            "trait_type":"Cloth",
-            "value":"Chubby Shock"
-        },
-        {
-            "trait_type":"Mouth",
-            "value":"Chubby Shock"
-        },
-        {
-            "trait_type":"Eyes",
-            "value":"Chubby Shock"
-        },
-        {
-            "trait_type":"Hats",
-            "value":"Chubby Shock"
         }
     ]
 }

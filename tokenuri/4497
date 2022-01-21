@@ -5,28 +5,12 @@
     "external_url":"/URL/",
     "attributes":[
         {
-            "trait_type":"Background",
-            "value":"SOS"
+            "trait_type":"Hidden",
+            "value":"Chubby Slime"
         },
         {
             "trait_type":"Skin",
             "value":"Power Yellow"
-        },
-        {
-            "trait_type":"Cloth",
-            "value":"Chubby Slime"
-        },
-        {
-            "trait_type":"Mouth",
-            "value":"Chubby Slime"
-        },
-        {
-            "trait_type":"Eyes",
-            "value":"Chubby Slime"
-        },
-        {
-            "trait_type":"Hats",
-            "value":"Chubby Slime"
         }
     ]
 }

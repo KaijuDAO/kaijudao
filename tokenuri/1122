@@ -5,28 +5,12 @@
     "external_url":"/URL/",
     "attributes":[
         {
-            "trait_type":"Background",
-            "value":"SOS"
+            "trait_type":"Hidden",
+            "value":"Chubby Us"
         },
         {
             "trait_type":"Skin",
             "value":"Money RainBow"
-        },
-        {
-            "trait_type":"Cloth",
-            "value":"Chubby Us"
-        },
-        {
-            "trait_type":"Mouth",
-            "value":"Chubby Us"
-        },
-        {
-            "trait_type":"Eyes",
-            "value":"Chubby Us"
-        },
-        {
-            "trait_type":"Hats",
-            "value":"Chubby Us"
         }
     ]
 }

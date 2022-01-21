@@ -5,28 +5,12 @@
     "external_url":"/URL/",
     "attributes":[
         {
-            "trait_type":"Background",
-            "value":"SOS"
+            "trait_type":"Hidden",
+            "value":"Chubby Doodle"
         },
         {
             "trait_type":"Skin",
             "value":"Music Green"
-        },
-        {
-            "trait_type":"Cloth",
-            "value":"Chubby Doodle"
-        },
-        {
-            "trait_type":"Mouth",
-            "value":"Chubby Doodle"
-        },
-        {
-            "trait_type":"Eyes",
-            "value":"Chubby Doodle"
-        },
-        {
-            "trait_type":"Hats",
-            "value":"Chubby Doodle"
         }
     ]
 }

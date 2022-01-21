@@ -5,28 +5,12 @@
     "external_url":"/URL/",
     "attributes":[
         {
-            "trait_type":"Background",
-            "value":"SOS"
+            "trait_type":"Hidden",
+            "value":"Chubby Chubby"
         },
         {
             "trait_type":"Skin",
             "value":"Power Black"
-        },
-        {
-            "trait_type":"Cloth",
-            "value":"Chubby Chubby"
-        },
-        {
-            "trait_type":"Mouth",
-            "value":"Chubby Chubby"
-        },
-        {
-            "trait_type":"Eyes",
-            "value":"Chubby Chubby"
-        },
-        {
-            "trait_type":"Hats",
-            "value":"Chubby Chubby"
         }
     ]
 }
