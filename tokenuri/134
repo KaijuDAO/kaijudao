@@ -5,28 +5,12 @@
     "external_url":"/URL/",
     "attributes":[
 	{
-		"trait_type": "Background", 
-		"value": "Rare"
+		"trait_type": "1/1", 
+		"value": "Chubby Martian"
 	}, 
 	{
 		"trait_type": "Skin", 
-		"value": "Music Green"
-	}, 
-	{
-		"trait_type": "Cloth",
-		"value": "Fancy"
-	}, 
-	{
-		"trait_type": "Mouth", 
-		"value": "Rainbow"
-	}, 
-	{	
-		"trait_type": "Eyes", 
-		"value": "Sunglasses"
-	}, 
-	{
-		"trait_type": "Hats", 
-		"value": "Octopus"
+		"value": "Music Yellow"
 	}
     ]
 }
